@@ -15,7 +15,7 @@ The project covers the complete data workflow:
 
 ##  Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/nithishhhhh/E-Commerce-Sales-Analysis-Dashboard-SQL-Excel-Power-BI-/blob/main/dashboard_preview.png)
 
 ---
 
