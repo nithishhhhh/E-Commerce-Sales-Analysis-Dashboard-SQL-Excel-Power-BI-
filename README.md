@@ -148,6 +148,3 @@ FROM `order`;
 **Nithish**
 Aspiring Data Analyst | SQL | Excel | Power BI
 
----
-
-⭐ If you found this project useful, feel free to star the repository!
